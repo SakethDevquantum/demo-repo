@@ -1,2 +1,2 @@
-# demo-repo
-this just for learning git operation, i am a newbie lol
+#this is just for learning
+so there is nothing here and nothing is too here
